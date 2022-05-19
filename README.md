@@ -12,6 +12,7 @@ A terraform module will have:
     - [ ] atlantis
     - [ ] terraform format
   - [ ] require signed commits
+  - [ ] include administrators
 - [ ] config files
   - [ ] .gitignore
   - [ ] .terraform-docs.yml
