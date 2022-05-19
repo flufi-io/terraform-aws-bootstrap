@@ -4,7 +4,6 @@
 # terraform-module-template
 A terraform module will have:
 
-
 - [ ] terraform files
   - [ ] main.tf
   - [ ] variables.tf
