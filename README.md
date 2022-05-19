@@ -31,3 +31,4 @@ A terraform module will have:
     - [ ] test
     - [ ] terraform-docs
     - [ ] Add a module to the Terraform Registry
+    - [ ] Import existing resources.
