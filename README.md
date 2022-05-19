@@ -3,19 +3,6 @@
 
 # terraform-module-template
 A terraform module will have:
-
-- [ ] terraform files
-  - [ ] main.tf
-  - [ ] variables.tf
-  - [ ] outputs.tf
-  - [ ] versions.tf
-- [ ] examples
-- [ ] tests
-- [ ] config files
-  - [ ] .gitignore
-  - [ ] .terraform-docs.yml
-  - [ ] CODEOWNERS
-  - [ ] PULL_REQUEST_TEMPLATE.md
 - [ ] default branch protection
   - [ ] checks
     - [ ] terratest
@@ -23,6 +10,20 @@ A terraform module will have:
     - [ ] dependabot
     - [ ] terraform-docs
     - [ ] atlantis
+    - [ ] terraform format
+  - [ ] require signed commits
+- [ ] config files
+  - [ ] .gitignore
+  - [ ] .terraform-docs.yml
+  - [ ] CODEOWNERS
+  - [ ] PULL_REQUEST_TEMPLATE.md
+- [ ] terraform files
+  - [ ] main.tf
+  - [ ] variables.tf
+  - [ ] outputs.tf
+  - [ ] versions.tf
+- [ ] examples
+- [ ] tests
 - [ ] README.md
   - [ ] Usage
   - [ ] terraform-docs
