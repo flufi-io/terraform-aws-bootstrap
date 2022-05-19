@@ -17,6 +17,9 @@ A terraform module will have:
   - [ ] .terraform-docs.yml
   - [ ] CODEOWNERS
   - [ ] PULL_REQUEST_TEMPLATE.md
+- [ ] credentials and secrets
+  - [ ] OIDC between a sandbox AWS Account and GitHub
+  - [ ] SOPS for secrets
 - [ ] terraform files
   - [ ] main.tf
   - [ ] variables.tf
